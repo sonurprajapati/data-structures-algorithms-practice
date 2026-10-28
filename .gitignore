@@ -1,0 +1,20 @@
+# Node.js
+node_modules/
+
+# TypeScript build output
+dist/
+*.js.map
+*.tsbuildinfo
+
+# Java compiled files
+*.class
+target/
+out/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
