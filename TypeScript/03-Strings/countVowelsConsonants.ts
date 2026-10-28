@@ -37,4 +37,4 @@ function countVowelsConsonants2(): void {
 countVowelsConsonants1();
 countVowelsConsonants2();
 
-export{};
+export { };
