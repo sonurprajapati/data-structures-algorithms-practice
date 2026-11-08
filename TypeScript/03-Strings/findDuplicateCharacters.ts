@@ -13,3 +13,7 @@ for (let i = 0; i < text.length; i++) {
 }
 console.log(duplicate);
 export { };
+
+// for last inner if loop not worked then use below if condition
+// if (duplicate.indexOf(text[i]) === -1) {
+// indexOf() returns -1 when the element is not found.
